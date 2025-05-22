@@ -1,0 +1,16 @@
+{
+  "dtype": "float16",
+  "enable_lora_list": null,
+  "head_dim": 128,
+  "lora_alpha": 16,
+  "lora_dropout": 0.0,
+  "merge_weights": false,
+  "r": 8,
+  "target_modules": [
+    ".*query_key_value.*",
+    ".*dense_h_to_4h.*"
+  ],
+  "tensor_parallel_degree": -1,
+  "trainable_bias": null,
+  "trainable_modules": null
+}
