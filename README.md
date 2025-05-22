@@ -1,4 +1,4 @@
-# navigation-assistant-demo
+# navigation-assistant
 
 	基于gradio 部署导航助手demo
 
