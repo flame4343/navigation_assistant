@@ -9,7 +9,7 @@
 
 ### 模型的实现细节及模型效果
 
-	见飞书文档：https://navinfo.feishu.cn/docx/Hl4JdnQcJoFYROxJOx5cESM8n6b
+
 
 
 ### 默认的测试地址
